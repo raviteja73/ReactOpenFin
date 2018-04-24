@@ -1,0 +1,20 @@
+{
+    "startup_app": {
+        "name": "ReactOpenFin",
+        "url": "http://localhost:3000",
+        "uuid": "ReactOpenFin",
+        "applicationIcon": "http://localhost:3000/favicon.ico",
+        "autoShow": true,
+        "saveWindowState": true
+    },
+    "runtime": {
+        "arguments": "--remote-debugging-port=9022",
+        "version": "community"
+    },
+    "shortcut": {
+        "company": "ReactOpenFin",
+        "description": "ReactOpenFin",
+        "icon": "http://localhost:3000/favicon.ico",
+        "name": "ReactOpenFin"
+    }
+}
